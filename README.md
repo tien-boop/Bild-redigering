@@ -1,3 +1,3 @@
 # Bild-redigering
 Ljusjustering
-print("hello world")
+print("hello world").
